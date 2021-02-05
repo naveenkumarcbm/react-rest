@@ -1,0 +1,14 @@
+.app-content{
+    height: 80vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.app-card {
+    width: 80vw;
+}
+
+.ant-collapse-content{
+    overflow: auto;
+    max-height: 40vh;
+}
