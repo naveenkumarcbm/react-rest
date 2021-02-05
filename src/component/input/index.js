@@ -29,7 +29,6 @@ const InputPanel = () => {
         <Col span={4}>
           <Form.Item
             name="method"
-            label="Method"
             rules={[
               {
                 required: true,
